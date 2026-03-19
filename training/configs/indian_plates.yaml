@@ -1,0 +1,7 @@
+# Indian License Plate + Roboflow surveillance labels
+path: /Users/devsmac/.gemini/antigravity/scratch/cctv-ai-system/datasets/plates
+train: images/train
+val: images/val
+
+names:
+  0: license_plate

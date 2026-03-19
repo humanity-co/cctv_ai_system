@@ -1,0 +1,20 @@
+# IRUVD - Indian Road User Vehicle Dataset Config
+path: /Users/devsmac/.gemini/antigravity/scratch/cctv-ai-system/datasets/drive_india/iruvd
+train: images
+val: images # Using same for demo as it's a small subset
+
+names:
+  0: Pedestrian
+  1: Toto
+  2: Cyclist
+  3: Bike
+  4: Truck
+  5: Motor-rickshaw
+  6: Van
+  7: Tempo
+  8: Car
+  9: Bus
+  10: Taxi
+  11: Auto-rickshaw
+  12: Jeep
+  13: Cycle-rickshaw

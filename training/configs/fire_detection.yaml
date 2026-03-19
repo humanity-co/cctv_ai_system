@@ -1,0 +1,8 @@
+# FIRESENSE Dataset Config
+path: /Users/devsmac/.gemini/antigravity/scratch/cctv-ai-system/datasets/fire_sense
+train: images/train
+val: images/val
+
+names:
+  0: fire
+  1: smoke

@@ -1,0 +1,17 @@
+# DriveIndia + UVH-26 Dataset Config
+path: /Users/devsmac/.gemini/antigravity/scratch/cctv-ai-system/datasets/drive_india
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: person
+  1: rider
+  2: car
+  3: truck
+  4: bus
+  5: auto_rickshaw
+  6: motorcycle
+  7: bicycle
+  8: traffic_signal
+  9: traffic_sign
